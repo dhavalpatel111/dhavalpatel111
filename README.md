@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @dhavalpatel111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android Application Development, Application Designing, Website Designing 
+- 🌱 I’m currently in BE Computer Engineering
+- If at first, you don't succeed, call it version 0.1!
+- 
 
-<!---
-dhavalpatel111/dhavalpatel111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
